@@ -1,0 +1,99 @@
+# Uploaded files
+uploads/
+
+# Generated reports
+reports/
+
+# Static plots
+static/plots/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Demo files (optional - remove if you want to include them)
+demo_dataset.csv
+demo_model.pkl
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model files (large binary files)
+*.pkl
+*.joblib
+*.h5
+*.pb
+*.onnx
+
+# Data files
+*.csv
+*.json
+*.xlsx
+*.xls
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
